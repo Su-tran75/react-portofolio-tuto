@@ -32,7 +32,7 @@ const Contact = () => {
     e.target.reset();
   };
   return (
-    <section id="contact">
+    <section id="contact" data-aos="fade-up" data-aos-offset="200" data-aos-delay="200">
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 

@@ -6,7 +6,7 @@ import { IoLogoTwitter } from 'react-icons/io';
 
 const Footer = () => {
 	return (
-		<footer>
+		<footer data-aos="fade-up" data-aos-offset="200" data-aos-delay="200">
 			<a href='#' className='footer__logo'>
 				Super Saiyan
 			</a>

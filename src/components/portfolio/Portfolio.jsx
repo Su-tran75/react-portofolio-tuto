@@ -54,7 +54,7 @@ const data = [
 
 const Portfolio = () => {
   return (
-    <section id="portfolio">
+    <section id="portfolio" data-aos="fade-up" data-aos-offset="200" data-aos-delay="200">
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
 

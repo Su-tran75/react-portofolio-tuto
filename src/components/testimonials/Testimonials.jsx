@@ -43,7 +43,7 @@ const data = [
 
 const Testimonials = () => {
   return (
-    <section id="testimonials">
+    <section id="testimonials" data-aos="fade-up" data-aos-offset="200" data-aos-delay="200">
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
 

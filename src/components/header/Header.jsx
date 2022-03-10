@@ -6,7 +6,7 @@ import HeaderSocials from "./HeaderSocials";
 
 const Header = () => {
   return (
-    <header>
+    <header data-aos="fade-up" data-aos-offset="200" data-aos-delay="200">
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Super Saiyan</h1>
